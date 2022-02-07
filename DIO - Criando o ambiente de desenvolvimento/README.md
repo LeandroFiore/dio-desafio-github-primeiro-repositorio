@@ -1,6 +1,6 @@
 - [Playlist](https://www.youtube.com/playlist?list=PLveD2f7n3iT8zt8hwqKpp5oNqnMfogwAQ)  
 
-- [](https://youtu.be/OkeVnshRw14)  
+- [CLI do NET](https://youtu.be/OkeVnshRw14)  
 dotnet --version  
 dotnet --help  
 dotnet --info  
