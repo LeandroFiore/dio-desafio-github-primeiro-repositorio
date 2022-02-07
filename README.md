@@ -14,3 +14,6 @@ Repositório criado para o desafio de projeto
 [DIO - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://github.com/LeandroFiore/dio-desafio-github-primeiro-repositorio/tree/main/DIO%20-%20Criando%20seu%20Primeiro%20Reposit%C3%B3rio%20no%20GitHub%20Para%20Compartilhar%20Seu%20Progresso)  
 
 [DIO - Introdução ao Ecossistema .NET e Documentação](https://github.com/LeandroFiore/dio-desafio-github-primeiro-repositorio/tree/main/DIO%20-%20Introdu%C3%A7%C3%A3o%20ao%20Ecossistema%20.NET%20e%20Documenta%C3%A7%C3%A3o)
+
+[DIO - Criando o ambiente de desenvolvimento](https://github.com/LeandroFiore/dio-desafio-github-primeiro-repositorio/tree/main/DIO%20-%20Criando%20o%20ambiente%20de%20desenvolvimento)
+
