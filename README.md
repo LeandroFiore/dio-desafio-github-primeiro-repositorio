@@ -17,3 +17,4 @@ Repositório criado para o desafio de projeto
 
 [DIO - Criando o ambiente de desenvolvimento](https://github.com/LeandroFiore/dio-desafio-github-primeiro-repositorio/tree/main/DIO%20-%20Criando%20o%20ambiente%20de%20desenvolvimento)
 
+[DIO - IDE Instalação e Configuração (Visual Studio Code)](https://github.com/LeandroFiore/dio-desafio-github-primeiro-repositorio/tree/main/DIO%20-%20IDE%20Instala%C3%A7%C3%A3o%20e%20Configura%C3%A7%C3%A3o%20(Visual%20Studio%20Code))
